@@ -6,6 +6,7 @@ User Experience encompasses the entire lifecycle of a project, moving from found
 
 1. **[What is UX?](./what-is-ux)** — Understanding user experience fundamentals
 2. **[UX Methodologies](./ux-methodologies)** — Frameworks for UX execution
+3. **[User Research](./user-research)** — Data-driven design foundations
 
 ## Key Takeaway
 
